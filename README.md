@@ -1,5 +1,3 @@
-# Ultimate-Ubuntu-Backup
-Interactive system snapshot, personal data backup, and migration toolkit for Ubuntu.
 # Ultimate Ubuntu Backup
 
 An interactive system snapshot, personal data backup, and migration toolkit for Ubuntu 26.04+—part of **The Ultimate Ubuntu Suite**.
@@ -32,8 +30,11 @@ wget [https://github.com/kintaris3/Ultimate-Ubuntu-Backup/releases/download/v1.0
 3. Open the `UUB_v1.0` folder and double-click `ultimate-ubuntu-backup_1.0_all.deb` to install via App Center, or run `sudo apt install ./UUB_v1.0/ultimate-ubuntu-backup_1.0_all.deb`.
 4. Press the **Super** key and launch **Ultimate Ubuntu Backup**.
 
-## The Ultimate Ubuntu Suite
+## The Complete Ultimate Ubuntu Suite
 - [Ultimate Ubuntu Kickstart](https://github.com/kintaris3/Ultimate-Ubuntu-Kickstart) — Day-1 post-install setup & debloater
 - [Ultimate Ubuntu Updater](https://github.com/kintaris3/Ultimate-Ubuntu-Updater) — One-click APT, Flatpak, & Snap maintenance
 - [Ultimate Ubuntu Rescue](https://github.com/kintaris3/Ultimate-Ubuntu-Rescue) — System repair, space recovery, & hardware diagnostics
 - [Ultimate Ubuntu Backup](https://github.com/kintaris3/Ultimate-Ubuntu-Backup) — System snapshots, personal backups, & migration cloning
+- [Ultimate Ubuntu Retro](https://github.com/kintaris3/Ultimate-Ubuntu-Retro) — Hardware-aware emulation & controller configurator
+- [Ultimate Ubuntu Revival](https://github.com/kintaris3/Ultimate-Ubuntu-Revival) — Thermal, ZRAM, Wi-Fi, & performance optimizer for older hardware
+
